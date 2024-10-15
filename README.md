@@ -2,7 +2,6 @@
 <h3 align="center"> I am continuously improving my skills in front-end and back-end development and getting better every day.</h3>
 
 - 📫 How to reach me **beyzacebeci34@gmail.com**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beyzacebeci&label=Profile%20views&color=0e75b6&style=flat" alt="beyzacebeci" /> </p>
 
   
 ## 🛠️ Technologies & Tools 
@@ -35,4 +34,4 @@
 
 </div>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=beyzacebeci&label=Profile%20views&color=0e75b6&style=flat" alt="beyzacebeci" /> </p>
